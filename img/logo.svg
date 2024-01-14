@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 19" width="20" height="19">
+	<title>New Project</title>
+	<defs>
+		<image  width="20" height="19" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATAQMAAACqQr/2AAAAAXNSR0IB2cksfwAAAANQTFRF////p8QbyAAAAAxJREFUeJxjYKAeAAAATAABTm8IbAAAAABJRU5ErkJggg=="/>
+		<image  width="20" height="19" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATBAMAAABiojCGAAAAAXNSR0IB2cksfwAAADBQTFRFAAAAa8Pwa8LxacPwbMPwbcPwa8Hya8Hya8LxacPwa8Pwa8Lya8LxasLxa8LxacPwhsRQGAAAABB0Uk5TAHf/M1VEiJnuEWaq3bvMIksxG3YAAACCSURBVHicY2BAAEYlJQMg5aSkCmImAJlFEGYDAwOnEoSpwsDABWE2qTMwcCsdAjHvaDAwTNK7BGJeVHJgWKQFZt5XKmB4pAlW++CRJr/SBjBTYZEWo5IDhDlJm0+DAcLkVgpShzJZlA4pQ5kMTUoHYMwiJQEYM0jpA4zJo8cAYiIAAGu7HixAbboGAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+	<use id="Layer 1" href="#img2" x="0" y="0"/>
+</svg>
